@@ -1,3 +1,8 @@
+# Certifications & Experience
+- Completed 18 workshops in Game Design, Game Development,and Game Art
+- Bootcamp organized by Xsolla in partnership with IGDA Azerbaijan,
+  IDDA, Odlar Yurdu University and Nomadman LLC
+  (April 20 – May 22, 2026)
 # Apollo-Station-
 2D sci-fi metroidvania set aboard a quarantined space station.
 #Story
@@ -11,6 +16,10 @@ Engine: Unreal Engine 5.
 Art: Adobe Photoshop + DragonBones.
 Audio: Epidemic Sound.
 No AI tools were used — all content was created and modified by the team.
+# Context
+Built in 48 hours during a GameDev Hackathon.
+This is a fully playable game with 3 levels and a proper ending — the protagonist escapes aboard their rocket.
+Developed entirely from scratch by our team in just 2 days.
 #My Role:
 Unreal Engine Developer
 #Link to the game:
