@@ -21,6 +21,6 @@ Built in 30 hours during a GameDev Hackathon.
 This is a fully playable game with 3 levels and a proper ending — the protagonist escapes aboard their rocket.
 Developed entirely from scratch by our team in just 2 days.
 # My Role:
-Unreal Engine Developer
+C++ Gameplay Programmer (Unreal Engine Game Developer)
 # Link to the game:
 https://reidelsaltres.itch.io/apollo-station
